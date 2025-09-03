@@ -303,6 +303,8 @@
     title: Glossary
   - local: philosophy
     title: Philosophy
+  - local: technical_architecture
+    title: Technical Architecture
   - local: notebooks
     title: Notebooks with examples
   - local: community
