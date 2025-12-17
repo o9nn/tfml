@@ -78,3 +78,4 @@ jobs:
         with:
           name: run_all_tests_new_models_test_reports
           path: reports/tests_new_models
+
